@@ -5,6 +5,7 @@ import Application from './routes/Routes';
 import Layout from './Layout';
 
 import './App.css';
+import './fontawesome'
 
 function App() {
   return (
