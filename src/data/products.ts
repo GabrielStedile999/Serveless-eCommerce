@@ -13,7 +13,7 @@ export const products = [
     description: 'The slim formal shirt made with cotton.',
     price: 33,
     imageUrl:
-      'https://www.cottonking.com/2574-thickbox_default/slim-formal-cotton-shirt-s28743.jpg',
+      'https://m.media-amazon.com/images/I/51bRR7mvlSL._AC_SX466_.jpg',
   },
   {
     id: '2',

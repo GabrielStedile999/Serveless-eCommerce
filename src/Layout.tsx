@@ -1,6 +1,7 @@
 import React from 'react'
 import NavBar
  from './components/nav/NavBar'
+import Signup from './components/auth/Signup'
 
 interface Props {
     children: React.ReactNode;
@@ -13,6 +14,8 @@ const Layout: React.FC<Props> = ({children}) => {
             <div className="page">
                 {children}
             </div>
+
+            <Signup />
         </div>
 }
 
